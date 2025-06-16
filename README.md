@@ -1,7 +1,3 @@
-
-
-<h1 align="center">Olá, Eu sou Ryan! </h1>
-
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
