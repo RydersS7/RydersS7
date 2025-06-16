@@ -4,12 +4,13 @@
 
 | Skill  | Nível          |
 |--------|----------------|
-| ![Python](https://img.shields.io/badge/Python-00ff00?style=for-the-badge&logo=python&logoColor=000000&color=00ff00) | Intermediário |
-| ![C](https://img.shields.io/badge/C-00ff00?style=for-the-badge&logo=c&logoColor=000000&color=00ff00) | Intermediário |
-| ![Git](https://img.shields.io/badge/Git-00ff00?style=for-the-badge&logo=git&logoColor=000000&color=00ff00) | Intermediário |
-| ![Linux](https://img.shields.io/badge/Linux-00ff00?style=for-the-badge&logo=linux&logoColor=000000&color=00ff00) | Intermediário |
+| ![Python](https://img.shields.io/badge/Python-00ff00?style=for-the-badge&logo=python&logoColor=000000) | Intermediário |
+| ![C](https://img.shields.io/badge/C-00ff00?style=for-the-badge&logo=c&logoColor=000000) | Intermediário |
+| ![Git](https://img.shields.io/badge/Git-00ff00?style=for-the-badge&logo=git&logoColor=000000) | Intermediário |
+| ![Linux](https://img.shields.io/badge/Linux-00ff00?style=for-the-badge&logo=linux&logoColor=000000) | Intermediário |
 
 </div>
+
 
 
 
