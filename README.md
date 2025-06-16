@@ -3,6 +3,12 @@
 ---
 
 ## 🧠 Sobre mim
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
+</div>
+
+---
+
 
 - 💻 Estudante de Sistemas de Informação
 - 🔥 Apaixonado por programação, tecnologia e desafios  
@@ -41,13 +47,3 @@
 </div>
 
 ---
-
-## 🧠 Modo: Dev Ativado
-
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
-</div>
-
----
-
-## 🚀 "Código é poesia que executa."  
