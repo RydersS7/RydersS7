@@ -19,7 +19,7 @@
 
 ---
 
-- 💻 Estudante de Ciência da Computação  
+- 💻 Estudante de Sistemas de Informação
 - 🔥 Apaixonado por programação, tecnologia e desafios  
 - 🐍 Atuo com **Python** e **C**  
 - 🎨 Curto design, criatividade e lógica  
