@@ -1,14 +1,10 @@
 <h1 align="center">Olá! Eu sou Ryan 👾</h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
-</p>
-
 ---
 
 ## 🧠 Sobre mim
 
-- 💻 Estudante de Ciência da Computação  
+- 💻 Estudante de Sistemas de Informação 🧩
 - 🔥 Apaixonado por programação, tecnologia e desafios  
 - 🐍 Atuo com **Python** e **C**  
 - 🎨 Curto design, criatividade e lógica  
