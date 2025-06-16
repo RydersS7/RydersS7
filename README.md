@@ -1,8 +1,14 @@
-## 📊 Estatísticas do GitHub
+## 🛠️ Skills & Níveis
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ryan-santos&show_icons=true&theme=tokyonight&icon_color=00ff00&title_color=00ff00&text_color=00ff00&bg_color=0A0A0A" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryan-santos&layout=compact&theme=tokyonight&title_color=00ff00&text_color=00ff00&bg_color=0A0A0A" />
+
+| Skill  | Nível          |
+|--------|----------------|
+| ![Python](https://img.shields.io/badge/Python-Intermedi%C3%A1rio-00ff00?style=for-the-badge&logo=python&logoColor=000000) | ![Nível](https://img.shields.io/badge/N%C3%ADvel-Intermedi%C3%A1rio-00ff00?style=for-the-badge) |
+| ![C](https://img.shields.io/badge/C-Intermedi%C3%A1rio-00ff00?style=for-the-badge&logo=c&logoColor=000000) | ![Nível](https://img.shields.io/badge/N%C3%ADvel-Intermedi%C3%A1rio-00ff00?style=for-the-badge) |
+| ![Git](https://img.shields.io/badge/Git-Intermedi%C3%A1rio-00ff00?style=for-the-badge&logo=git&logoColor=000000) | ![Nível](https://img.shields.io/badge/N%C3%ADvel-Intermedi%C3%A1rio-00ff00?style=for-the-badge) |
+| ![Linux](https://img.shields.io/badge/Linux-Intermedi%C3%A1rio-00ff00?style=for-the-badge&logo=linux&logoColor=000000) | ![Nível](https://img.shields.io/badge/N%C3%ADvel-Intermedi%C3%A1rio-00ff00?style=for-the-badge) |
+
 </div>
 
 ---
