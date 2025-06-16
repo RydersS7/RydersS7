@@ -2,10 +2,6 @@
 
 <h1 align="center">Salve! Eu sou o Ryan 👾</h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
-</p>
-
 ---
 ## 📊 Estatísticas do GitHub
 
