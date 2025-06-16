@@ -1,3 +1,13 @@
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ryan-santos&show_icons=true&theme=tokyonight&icon_color=00ff00&title_color=00ff00&text_color=00ff00&bg_color=0A0A0A" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryan-santos&layout=compact&theme=tokyonight&title_color=00ff00&text_color=00ff00&bg_color=0A0A0A" />
+</div>
+
+---
+
+
 <h1 align="center">Salve! Eu sou o Ryan 👾</h1>
 
 <p align="center">
@@ -37,15 +47,6 @@
 <div align="center">
   <img src="https://img.shields.io/badge/VSCODE-0A403D?style=for-the-badge&logo=visualstudiocode&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-0A403D?style=for-the-badge&logo=github&logoColor=white">
-</div>
-
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ryan-santos&show_icons=true&theme=tokyonight&icon_color=00ff00&title_color=00ff00&text_color=00ff00&bg_color=0A0A0A" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryan-santos&layout=compact&theme=tokyonight&title_color=00ff00&text_color=00ff00&bg_color=0A0A0A" />
 </div>
 
 ---
