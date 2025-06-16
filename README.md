@@ -41,17 +41,6 @@
 
 ## ⚙️ Ferramentas & Plataformas
 
-[~]==============================[~]
- |        >> SKILLS RADAR <<      |
-[~]==============================[~]
- | >> Python : ████████░░ (80%)
- | >> C      : ████████░░ (80%)
- | >> Git    : ██████░░░░ (70%)
- | >> Linux  : ██████░░░░ (70%)
-[~]==============================[~]
- | > Status : ALWAYS LEARNING
-[~]==============================[~]
-
 
 <div align="center">
   <img src="https://img.shields.io/badge/VSCODE-0A403D?style=for-the-badge&logo=visualstudiocode&logoColor=white">
