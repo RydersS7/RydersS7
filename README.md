@@ -1,33 +1,57 @@
-<h1 align="center">Olá, eu sou  Ryan!</h1>
+<h1 align="center">Olá! Eu sou Ryan 👾</h1>
 
-
-- 🔭 Atualmente estudando Sistemas de Informação na UNEB.
-- 💡 Me interesso por lógica, inteligência artificial e cibersegurança.
-- 🐍 Programando com Python e C.
-- 📫 Me encontre no [LinkedIn](https://linkedin.com/in/ryderss)  
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
+</p>
 
 ---
 
-## 🚀 Tecnologias que uso
+## 🧠 Sobre mim
 
-<div style="display: flex; gap: 10px;">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+- 💻 Estudante de Ciência da Computação  
+- 🔥 Apaixonado por programação, tecnologia e desafios  
+- 🐍 Atuo com **Python** e **C**  
+- 🎨 Curto design, criatividade e lógica  
+- 🌱 Sempre aprendendo e evoluindo  
+- 📫 Me encontra no [LinkedIn](https://linkedin.com/in/ryan-santos)  
+
+---
+
+## 💾 Tecnologias que eu uso
+
+<div align="center">
+  <img src="https://img.shields.io/badge/C-0A403D?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-0A403D?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-0A403D?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-0A403D?style=for-the-badge&logo=linux&logoColor=white">
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## ⚙️ Ferramentas & Plataformas
 
-![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RydersS7&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RydersS7&layout=compact&theme=radical)
-
----
-
-## 🎯 Um pouco do meu mundo
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
+<div align="center">
+  <img src="https://img.shields.io/badge/VSCODE-0A403D?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-0A403D?style=for-the-badge&logo=github&logoColor=white">
+</div>
 
 ---
 
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ryan-santos&show_icons=true&theme=tokyonight&icon_color=00ff00&title_color=00ff00&text_color=00ff00&bg_color=0A0A0A" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryan-santos&layout=compact&theme=tokyonight&title_color=00ff00&text_color=00ff00&bg_color=0A0A0A" />
+</div>
+
+---
+
+## 🧠 Modo: Dev Ativado
+
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
+</div>
+
+---
+
+## 🚀 "Código é poesia que executa."  
