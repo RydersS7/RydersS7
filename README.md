@@ -1,10 +1,10 @@
-<h1 align="center">Olá! Eu sou Ryan 👾</h1>
+<h1 align="center">Olá! Eu sou Ryan 🧩</h1>
 
 ---
 
 ## 🧠 Sobre mim
 
-- 💻 Estudante de Sistemas de Informação 🧩
+- 💻 Estudante de Sistemas de Informação
 - 🔥 Apaixonado por programação, tecnologia e desafios  
 - 🐍 Atuo com **Python** e **C**  
 - 🎨 Curto design, criatividade e lógica  
