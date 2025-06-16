@@ -1,12 +1,12 @@
-<h1 align="center">Olá, eu sou o Ryan! 👋</h1>
+<h1 align="center">Olá, eu sou  Ryan! 👋</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
 </p>
 
-- 🔭 Atualmente estudando Ciência da Computação  
-- 💡 Me interesso por lógica, inteligência artificial e computação gráfica  
-- 🐍 Programando com Python e C  
+- 🔭 Atualmente estudando Sistemas de Informação na UNEB.
+- 💡 Me interesso por lógica, inteligência artificial e computação gráfica.
+- 🐍 Programando com Python e C.
 - 📫 Me encontre no [LinkedIn](https://linkedin.com/in/ryderss)  
 
 ---
