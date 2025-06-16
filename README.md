@@ -1,8 +1,7 @@
 
 
-<h1 align="center">Salve! Eu sou o Ryan 👾</h1>
+<h1 align="center">Salve! Eu sou o Ryan </h1>
 
----
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
