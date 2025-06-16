@@ -1,8 +1,8 @@
-<h1 align="center">Olá, eu sou  Ryan! 👋</h1>
+<h1 align="center">Olá, eu sou  Ryan!</h1>
 
 
 - 🔭 Atualmente estudando Sistemas de Informação na UNEB.
-- 💡 Me interesso por lógica, inteligência artificial e computação gráfica.
+- 💡 Me interesso por lógica, inteligência artificial e cibersegurança.
 - 🐍 Programando com Python e C.
 - 📫 Me encontre no [LinkedIn](https://linkedin.com/in/ryderss)  
 
