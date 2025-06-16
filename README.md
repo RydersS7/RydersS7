@@ -1,50 +1,56 @@
+<h1 align="center">🟢 Ryan Iniciando Sessão... 👾</h1>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/26BRQTezZrKak4BeE/giphy.gif" width="200">
+</p>
 
-<h1 align="center">Olá, Eu sou Ryan! </h1>
+---
 
-## 📊 Estatísticas do GitHub
+## 👾 Sobre mim
+
+- 💻 Cientista da Computação em formação  
+- ⚡ Apaixonado por tecnologia, lógica, inteligência artificial e computação gráfica  
+- 🐍 Codando em **Python** e **C**  
+- 🔥 Mente inquieta, sempre hackeando o conhecimento  
+- 📫 Conecta comigo no [LinkedIn](https://linkedin.com/in/ryan-santos)
+
+---
+
+## 🧠 Habilidades & Ferramentas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ryan-santos&show_icons=true&theme=tokyonight&icon_color=00ff00&title_color=00ff00&text_color=00ff00&bg_color=0A0A0A" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryan-santos&layout=compact&theme=tokyonight&title_color=00ff00&text_color=00ff00&bg_color=0A0A0A" />
+  <img src="https://img.shields.io/badge/C-00FF00?style=for-the-badge&logo=c&logoColor=black">
+  <img src="https://img.shields.io/badge/Python-00FF00?style=for-the-badge&logo=python&logoColor=black">
+  <img src="https://img.shields.io/badge/Linux-00FF00?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Git-00FF00?style=for-the-badge&logo=git&logoColor=black">
+  <img src="https://img.shields.io/badge/VSCODE-00FF00?style=for-the-badge&logo=visualstudiocode&logoColor=black">
 </div>
 
 ---
 
+## 📊 Status do Sistema
 
-## 🧠 Sobre mim
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ryan-santos&show_icons=true&theme=tokyonight&icon_color=00FF00&title_color=00FF00&text_color=00FF00&bg_color=000000" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryan-santos&layout=compact&theme=tokyonight&title_color=00FF00&text_color=00FF00&bg_color=000000" />
 </div>
 
 ---
 
-- 💻 Estudante de Sistemas de Informação
-- 🔥 Apaixonado por programação, tecnologia e desafios  
-- 🐍 Atuo com **Python** e **C**  
-- 🎨 Curto design, criatividade e lógica  
-- 🌱 Sempre aprendendo e evoluindo  
-- 📫 Me encontra no [LinkedIn](https://linkedin.com/in/ryan-santos)  
-
----
-
-## 💾 Tecnologias que eu uso
+## 💀 Terminal Ativo
 
 <div align="center">
-  <img src="https://img.shields.io/badge/C-0A403D?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-0A403D?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-0A403D?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-0A403D?style=for-the-badge&logo=linux&logoColor=white">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="400">
 </div>
 
 ---
 
-## ⚙️ Ferramentas & Plataformas
+## 🛸 A Regra é Clara:
 
-<div align="center">
-  <img src="https://img.shields.io/badge/VSCODE-0A403D?style=for-the-badge&logo=visualstudiocode&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-0A403D?style=for-the-badge&logo=github&logoColor=white">
-</div>
+> "Hackear não é invadir sistemas. Hackear é explorar, entender, transformar e evoluir."  
+> — Ryan.exe  
 
 ---
 
+## ⚡ Fim da Sessão
