@@ -14,7 +14,7 @@
 
 ## 🧠 Sobre mim
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
+  <img src="https://github.com/RydersS7/My-repository/blob/main/ryan_terminal_banner_clean.gif?raw=true" width="400" alt="Terminal Hacker Animado"/>
 </div>
 
 ---
