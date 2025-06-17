@@ -17,7 +17,7 @@
 
 ---
 
-- 💻 Estudante de Sistemas de Informação
+- 💻 Estudante de Sistemas de Informação (3ºSemestre)
 - 🔥 Apaixonado por programação, tecnologia e desafios  
 - 🐍 Atuo com **C** e **Python**
 - 🎨 Curto design, hacking e lógica  
