@@ -22,7 +22,7 @@
 - 🐍 Atuo com **C** e **Python**.
 - 🎨 Curto design, hacking e lógica.  
 - 🌱 Sempre aprendendo e evoluindo.  
-- 📫 Me encontra no [LinkedIn](https://linkedin.com/in/ryderss).  
+- 📫 Me encontra no [Linkedin](https://linkedin.com/in/ryderss)
 
 ---
 
