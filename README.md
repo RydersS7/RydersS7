@@ -22,7 +22,7 @@
 - 🐍 Atuo com **Python** e **C**  
 - 🎨 Curto design, criatividade e lógica  
 - 🌱 Sempre aprendendo e evoluindo  
-- 📫 Me encontra no [LinkedIn](https://linkedin.com/in/ryan-santos)  
+- 📫 Me encontra no [LinkedIn](https://linkedin.com/in/ryderss)  
 
 ---
 
