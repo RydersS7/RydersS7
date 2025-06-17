@@ -20,7 +20,7 @@
 - 💻 Estudante de Sistemas de Informação
 - 🔥 Apaixonado por programação, tecnologia e desafios  
 - 🐍 Atuo com **Python** e **C**  
-- 🎨 Curto design, criatividade e lógica  
+- 🎨 Curto design, hacking e lógica  
 - 🌱 Sempre aprendendo e evoluindo  
 - 📫 Me encontra no [LinkedIn](https://linkedin.com/in/ryderss)  
 
