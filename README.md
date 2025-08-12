@@ -21,17 +21,17 @@
 
 <div align="center" style="font-family: 'Fira Code', monospace; color: #00ff00; background-color: #0A0A0A; padding: 20px; border-radius: 10px; max-width: 500px;">
 
-  <p style="margin-bottom: 20px;">💻 <strong>Estudante de Sistemas de Informação</strong> — <em>3º Semestre</em></p>
+  <div style="margin-bottom: 24px;">💻 <strong>Estudante de Sistemas de Informação</strong> — <em>3º Semestre</em></div>
 
-  <p style="margin-bottom: 20px;">⚡ <strong>Apaixonado por programação, tecnologia e desafios.</strong></p>
+  <div style="margin-bottom: 24px;">⚡ <strong>Apaixonado por programação, tecnologia e desafios.</strong></div>
 
-  <p style="margin-bottom: 20px;">⚙️ Atuo com <strong>C</strong> e <strong>Python</strong>.</p>
+  <div style="margin-bottom: 24px;">⚙️ Atuo com <strong>C</strong> e <strong>Python</strong>.</div>
 
-  <p style="margin-bottom: 20px;">🕵️‍♂️ Curto <em>design</em>, <em>hacking</em> e <em>lógica</em>.</p>
+  <div style="margin-bottom: 24px;">🕵️‍♂️ Curto <em>design</em>, <em>hacking</em> e <em>lógica</em>.</div>
 
-  <p style="margin-bottom: 20px;">🔄 <strong>Sempre aprendendo e evoluindo.</strong></p>
+  <div style="margin-bottom: 24px;">🔄 <strong>Sempre aprendendo e evoluindo.</strong></div>
 
-  <p style="margin-bottom: 0;">🔗 Me encontre no <a href="https://linkedin.com/in/ryderss" target="_blank" style="color:#00ff00; text-decoration:none;">LinkedIn</a></p>
+  <div>🔗 Me encontre no <a href="https://linkedin.com/in/ryderss" target="_blank" style="color:#00ff00; text-decoration:none;">LinkedIn</a></div>
 
 </div>
 
