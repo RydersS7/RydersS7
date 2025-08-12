@@ -19,31 +19,19 @@
 
 ---
 
-<div align="center" style="font-family: 'Fira Code', monospace; max-width: 600px; margin: auto;">
+<div align="center" style="font-family: 'Fira Code', monospace; color: #00ff00; background-color: #0A0A0A; padding: 20px; border-radius: 10px; max-width: 500px;">
 
-  <div style="background: linear-gradient(90deg, #00ff00 0%, #001100 100%); padding: 6px 12px; border-radius: 6px; margin: 4px 0;">
-    🧑‍💻 <strong>Estudante de Sistemas de Informação</strong> (3º Semestre)
-  </div>
+  <p>💻 <strong>Estudante de Sistemas de Informação</strong> — <em>3º Semestre</em></p>
 
-  <div style="background: linear-gradient(90deg, #00cc00 0%, #001100 100%); padding: 6px 12px; border-radius: 6px; margin: 4px 0;">
-    ⚡ Apaixonado por <strong>programação</strong>, <strong>tecnologia</strong> e desafios
-  </div>
+  <p>⚡ <strong>Apaixonado por programação, tecnologia e desafios.</strong></p>
 
-  <div style="background: linear-gradient(90deg, #009900 0%, #001100 100%); padding: 6px 12px; border-radius: 6px; margin: 4px 0;">
-    ⚙️ Atuo com <strong>C</strong> e <strong>Python</strong>
-  </div>
+  <p>⚙️ Atuo com <strong>C</strong> e <strong>Python</strong>.</p>
 
-  <div style="background: linear-gradient(90deg, #006600 0%, #001100 100%); padding: 6px 12px; border-radius: 6px; margin: 4px 0;">
-    🕵️‍♂️ Curto <em>design</em>, <em>hacking</em> e <em>lógica</em>
-  </div>
+  <p>🕵️‍♂️ Curto <em>design</em>, <em>hacking</em> e <em>lógica</em>.</p>
 
-  <div style="background: linear-gradient(90deg, #003300 0%, #001100 100%); padding: 6px 12px; border-radius: 6px; margin: 4px 0;">
-    🔄 Sempre aprendendo e evoluindo
-  </div>
+  <p>🔄 <strong>Sempre aprendendo e evoluindo.</strong></p>
 
-  <div style="background: linear-gradient(90deg, #001100 0%, #000000 100%); padding: 6px 12px; border-radius: 6px; margin: 4px 0;">
-    🔗 Me encontra no ➜ <a href="https://linkedin.com/in/ryderss" target="_blank" style="color:#00ff00; text-decoration:none;">LinkedIn</a>
-  </div>
+  <p>🔗 Me encontre no <a href="https://linkedin.com/in/ryderss" target="_blank" style="color:#00ff00; text-decoration:none;">LinkedIn</a></p>
 
 </div>
 
