@@ -1,9 +1,7 @@
 ## 📊 Estatísticas do GitHub
 
-<div align="center">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryan-santos&layout=donut&theme=dark&bg_color=0A0A0A&title_color=00ff00&text_color=00ff00)
-</div>
-
+[![C](https://img.shields.io/badge/C-0A403D?style=for-the-badge&logo=c&logoColor=00ff00&color=000000&labelColor=0A0A0A)](https://github.com/topics/c)
+[![Python](https://img.shields.io/badge/Python-0A403D?style=for-the-badge&logo=python&logoColor=00ff00&color=000000&labelColor=0A0A0A)](https://github.com/topics/python)
 ---
 
 
