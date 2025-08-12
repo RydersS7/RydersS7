@@ -1,6 +1,6 @@
 ## 📊 Estatísticas do GitHub
 
-[![C](https://img.shields.io/badge/C-0A403D?style=for-the-badge&logo=c&logoColor=00ff00&color=000000&labelColor=0A0A0A)](https://github.com/topics/c)
+[![C](https://img.shields.io/badge/C-0A403D?style=for-the-badge&logo=c&logoColor=00ff00&color=000000&labelColor=0A0A0A)](https://github.com/topics/)
 [![Python](https://img.shields.io/badge/Python-0A403D?style=for-the-badge&logo=python&logoColor=00ff00&color=000000&labelColor=0A0A0A)](https://github.com/topics/python)
 ---
 
