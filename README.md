@@ -19,30 +19,18 @@
 
 ---
 
-<table align="center" style="max-width: 600px; font-family: 'Fira Code', monospace; color: #00ff00; background-color: #0A0A0A; border-radius: 10px;">
+<div align="center" style="font-family: 'Fira Code', monospace; background-color:#0A0A0A; color:#00ff00; border-radius: 10px; padding: 20px; max-width: 600px;">
 
-  <tr>
+<span style="font-size: 20px;">🟩</span> <span style="margin: 0 15px;">
+💻 <strong>Estudante de Sistemas de Informação</strong> — <em>3º Semestre</em><br>
+⚡ <strong>Apaixonado por programação, tecnologia e desafios.</strong><br>
+⚙️ Atuo com <strong>C</strong> e <strong>Python</strong>.<br>
+🕵️‍♂️ Curto <em>design</em>, <em>hacking</em> e <em>lógica</em>.<br>
+🔄 <strong>Sempre aprendendo e evoluindo.</strong><br>
+🔗 Me encontre no <a href="https://linkedin.com/in/ryderss" target="_blank" style="color:#00ff00; text-decoration:none;">LinkedIn</a>
+</span> <span style="font-size: 20px;">🟩</span>
 
-    <td style="width: 10%; text-align: center; vertical-align: top; font-weight: bold; font-size: 24px; padding: 0 10px;">
-      │<br>│<br>│<br>│<br>│<br>│
-    </td>
-
-    <td style="width: 80%; padding: 20px; text-align: center;">
-      <p>💻 <strong>Estudante de Sistemas de Informação</strong> — <em>3º Semestre</em></p>
-      <p>⚡ <strong>Apaixonado por programação, tecnologia e desafios.</strong></p>
-      <p>⚙️ Atuo com <strong>C</strong> e <strong>Python</strong>.</p>
-      <p>🕵️‍♂️ Curto <em>design</em>, <em>hacking</em> e <em>lógica</em>.</p>
-      <p>🔄 <strong>Sempre aprendendo e evoluindo.</strong></p>
-      <p>🔗 Me encontre no <a href="https://linkedin.com/in/ryderss" target="_blank" style="color:#00ff00; text-decoration:none;">LinkedIn</a></p>
-    </td>
-
-    <td style="width: 10%; text-align: center; vertical-align: top; font-weight: bold; font-size: 24px; padding: 0 10px;">
-      │<br>│<br>│<br>│<br>│<br>│
-    </td>
-
-  </tr>
-
-</table>
+</div>
 
 ---
 
