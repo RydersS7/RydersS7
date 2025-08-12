@@ -19,19 +19,31 @@
 
 ---
 
-<div align="center" style="font-family: 'Fira Code', monospace; color: #00ff00; background-color: #0A0A0A; padding: 20px; border-radius: 10px; max-width: 500px;">
+<div align="center" style="font-family: 'Fira Code', monospace; max-width: 600px; margin: auto;">
 
-  <div style="margin-bottom: 24px;">💻 <strong>Estudante de Sistemas de Informação</strong> — <em>3º Semestre</em></div>
+  <div style="background: linear-gradient(90deg, #00ff00 0%, #001100 100%); padding: 12px 20px; border-radius: 6px; margin: 20px 0;">
+    🧑‍💻 <strong>Estudante de Sistemas de Informação</strong> (3º Semestre)
+  </div>
 
-  <div style="margin-bottom: 24px;">⚡ <strong>Apaixonado por programação, tecnologia e desafios.</strong></div>
+  <div style="background: linear-gradient(90deg, #00cc00 0%, #001100 100%); padding: 12px 20px; border-radius: 6px; margin: 20px 0;">
+    ⚡ Apaixonado por <strong>programação</strong>, <strong>tecnologia</strong> e desafios
+  </div>
 
-  <div style="margin-bottom: 24px;">⚙️ Atuo com <strong>C</strong> e <strong>Python</strong>.</div>
+  <div style="background: linear-gradient(90deg, #009900 0%, #001100 100%); padding: 12px 20px; border-radius: 6px; margin: 20px 0;">
+    ⚙️ Atuo com <strong>C</strong> e <strong>Python</strong>
+  </div>
 
-  <div style="margin-bottom: 24px;">🕵️‍♂️ Curto <em>design</em>, <em>hacking</em> e <em>lógica</em>.</div>
+  <div style="background: linear-gradient(90deg, #006600 0%, #001100 100%); padding: 12px 20px; border-radius: 6px; margin: 20px 0;">
+    🕵️‍♂️ Curto <em>design</em>, <em>hacking</em> e <em>lógica</em>
+  </div>
 
-  <div style="margin-bottom: 24px;">🔄 <strong>Sempre aprendendo e evoluindo.</strong></div>
+  <div style="background: linear-gradient(90deg, #003300 0%, #001100 100%); padding: 12px 20px; border-radius: 6px; margin: 20px 0;">
+    🔄 Sempre aprendendo e evoluindo
+  </div>
 
-  <div>🔗 Me encontre no <a href="https://linkedin.com/in/ryderss" target="_blank" style="color:#00ff00; text-decoration:none;">LinkedIn</a></div>
+  <div style="background: linear-gradient(90deg, #001100 0%, #000000 100%); padding: 12px 20px; border-radius: 6px; margin: 20px 0;">
+    🔗 Me encontra no ➜ <a href="https://linkedin.com/in/ryderss" target="_blank" style="color:#00ff00; text-decoration:none;">LinkedIn</a>
+  </div>
 
 </div>
 
