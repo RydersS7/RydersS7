@@ -19,12 +19,21 @@
 
 ---
 
-- 💻 Estudante de Sistemas de Informação (3ºSemestre).
-- 🔥 Apaixonado por programação, tecnologia e desafios.  
-- 🐍 Atuo com **C** e **Python**.
-- 🎨 Curto design, hacking e lógica.  
-- 🌱 Sempre aprendendo e evoluindo.  
-- 📫 Me encontra no [Linkedin](https://linkedin.com/in/ryderss)
+<div align="center" style="font-family: 'Fira Code', monospace; color: #00ff00; background-color: #0A0A0A; padding: 20px; border-radius: 10px; max-width: 500px;">
+
+  <p>💻 <strong>Estudante de Sistemas de Informação</strong> — <em>3º Semestre</em></p>
+
+  <p>🔥 <strong>Apaixonado por programação, tecnologia e desafios.</strong></p>
+
+  <p>🐍 Atuo com <strong>C</strong> e <strong>Python</strong>.</p>
+
+  <p>🎨 Curto <em>design</em>, <em>hacking</em> e <em>lógica</em>.</p>
+
+  <p>🌱 <strong>Sempre aprendendo e evoluindo.</strong></p>
+
+  <p>📫 Me encontre no <a href="https://linkedin.com/in/ryderss" target="_blank" style="color:#00ff00; text-decoration:none;">LinkedIn</a></p>
+
+</div>
 
 ---
 
