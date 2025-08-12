@@ -19,20 +19,13 @@
 
 ---
 
-<div align="center" style="background:#0A0A0A; border-radius:10px; padding:20px; max-width:700px; font-family:'Fira Code', monospace; color:#00ff00; display:flex; justify-content:center; align-items:center;">
+<div align="center" style="background:#0A0A0A; border-radius:10px; padding:20px; max-width:700px; font-family:'Fira Code', monospace; color:#00ff00;">
 
-  <!-- Barra esquerda -->
-  <div style="display:flex; flex-direction: column; justify-content: space-between; height: 120px; margin-right: 20px;">
-    <div>🟩</div>
-    <div>🟩</div>
-    <div>🟩</div>
-    <div>🟩</div>
-    <div>🟩</div>
-    <div>🟩</div>
+  <div style="display:inline-block; vertical-align:middle; margin-right: 20px; line-height: 16px;">
+    🟩<br>🟩<br>🟩<br>🟩<br>🟩<br>🟩
   </div>
 
-  <!-- Texto central -->
-  <div style="max-width: 500px; text-align: center; line-height: 1.6;">
+  <div style="display:inline-block; max-width: 500px; vertical-align: middle; text-align: center; line-height: 1.6;">
     <p>💻 <strong>Estudante de Sistemas de Informação</strong> — <em>3º Semestre</em></p>
     <p>⚡ <strong>Apaixonado por programação, tecnologia e desafios.</strong></p>
     <p>⚙️ Atuo com <strong>C</strong> e <strong>Python</strong>.</p>
@@ -41,14 +34,8 @@
     <p>🔗 Me encontre no <a href="https://linkedin.com/in/ryderss" target="_blank" style="color:#00ff00; text-decoration:none;">LinkedIn</a></p>
   </div>
 
-  <!-- Barra direita -->
-  <div style="display:flex; flex-direction: column; justify-content: space-between; height: 120px; margin-left: 20px;">
-    <div>🟩</div>
-    <div>🟩</div>
-    <div>🟩</div>
-    <div>🟩</div>
-    <div>🟩</div>
-    <div>🟩</div>
+  <div style="display:inline-block; vertical-align:middle; margin-left: 20px; line-height: 16px;">
+    🟩<br>🟩<br>🟩<br>🟩<br>🟩<br>🟩
   </div>
 
 </div>
