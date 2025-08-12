@@ -1,9 +1,16 @@
 ## 📊 Estatísticas do GitHub
 
-[![C](https://img.shields.io/badge/C-0A403D?style=for-the-badge&logo=c&logoColor=00ff00&color=000000&labelColor=0A0A0A)](https://github.com/topics/)
-[![Python](https://img.shields.io/badge/Python-0A403D?style=for-the-badge&logo=python&logoColor=00ff00&color=000000&labelColor=0A0A0A)](https://github.com/topics/python)
----
+<div align="center">
 
+  <!-- Estatísticas gerais do GitHub -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RydersS7&show_icons=true&theme=dark&icon_color=00ff00&title_color=00ff00&text_color=00ff00&bg_color=0A0A0A" />
+
+  <!-- Linguagens mais usadas no estilo donut -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RydersS7&layout=donut&theme=dark&bg_color=0A0A0A&title_color=00ff00&text_color=00ff00" />
+
+</div>
+
+---
 
 ## 🧠 Sobre mim
 <div align="center">
