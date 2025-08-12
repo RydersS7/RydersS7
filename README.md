@@ -1,16 +1,26 @@
 ## 📊 Estatísticas do GitHub
 
-<div align="center">
+<div align="center" style="background:#0A0A0A; padding:20px; border-radius:10px; font-family: 'Fira Code', monospace; color:#00ff00;">
 
-<!-- Streak -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ryan-santos&theme=tokyonight)
+  <h2>⚡ Status do Hacker</h2>
+  
+  <pre style="text-align:left; font-size:1.1rem;">
+  ┌─────────────────────────────┐
+  │   ⚙️  Linguagens favoritas   │
+  │   C         Python          │
+  ├─────────────────────────────┤
+  │   💾 Repositórios ativos    │
+  │   15 projetos em andamento  │
+  ├─────────────────────────────┤
+  │   🕒 Tempo de código        │
+  │   200+ horas este mês       │
+  ├─────────────────────────────┤
+  │   🔥 Streak GitHub          │
+  │   45 dias consecutivos      │
+  └─────────────────────────────┘
+  </pre>
 
-<!-- Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=ryan-santos&theme=tokyonight" alt="GitHub Trophies" />
-
-<!-- Contributions Calendar -->
-![GitHub Contributions](https://ghchart.rshah.org/ryan-santos)
-
+  <small>Progresso constante, código limpo e mente afiada.</small>
 </div>
 
 ---
