@@ -19,33 +19,39 @@
 
 ---
 
-<table align="center" style="max-width: 650px; width: 100%; background-color: #0A0A0A; border-radius: 10px; font-family: 'Fira Code', monospace; color: #00ff00;">
+<div align="center" style="background:#0A0A0A; border-radius:10px; padding:20px; max-width:700px; font-family:'Fira Code', monospace; color:#00ff00; display:flex; align-items:center; justify-content:center;">
 
-  <tr>
+  <!-- Barra esquerda -->
+  <div style="display:flex; flex-direction:column; justify-content:space-between; height:120px; margin-right:20px;">
+    <div style="width:12px; height:12px; background:#00ff00; border-radius:3px;"></div>
+    <div style="width:12px; height:12px; background:#00ff00; border-radius:3px;"></div>
+    <div style="width:12px; height:12px; background:#00ff00; border-radius:3px;"></div>
+    <div style="width:12px; height:12px; background:#00ff00; border-radius:3px;"></div>
+    <div style="width:12px; height:12px; background:#00ff00; border-radius:3px;"></div>
+    <div style="width:12px; height:12px; background:#00ff00; border-radius:3px;"></div>
+  </div>
 
-    <!-- Barra esquerda com quadrados -->
-    <td style="width: 40px; text-align: center; vertical-align: middle; padding: 10px 5px;">
-      🟩<br>🟩<br>🟩<br>🟩<br>🟩<br>🟩
-    </td>
+  <!-- Texto -->
+  <div style="max-width:500px; text-align:center; line-height:1.6;">
+    <p>💻 <strong>Estudante de Sistemas de Informação</strong> — <em>3º Semestre</em></p>
+    <p>⚡ <strong>Apaixonado por programação, tecnologia e desafios.</strong></p>
+    <p>⚙️ Atuo com <strong>C</strong> e <strong>Python</strong>.</p>
+    <p>🕵️‍♂️ Curto <em>design</em>, <em>hacking</em> e <em>lógica</em>.</p>
+    <p>🔄 <strong>Sempre aprendendo e evoluindo.</strong></p>
+    <p>🔗 Me encontre no <a href="https://linkedin.com/in/ryderss" target="_blank" style="color:#00ff00; text-decoration:none;">LinkedIn</a></p>
+  </div>
 
-    <!-- Texto central -->
-    <td style="padding: 20px; text-align: center;">
-      <p>💻 <strong>Estudante de Sistemas de Informação</strong> — <em>3º Semestre</em></p>
-      <p>⚡ <strong>Apaixonado por programação, tecnologia e desafios.</strong></p>
-      <p>⚙️ Atuo com <strong>C</strong> e <strong>Python</strong>.</p>
-      <p>🕵️‍♂️ Curto <em>design</em>, <em>hacking</em> e <em>lógica</em>.</p>
-      <p>🔄 <strong>Sempre aprendendo e evoluindo.</strong></p>
-      <p>🔗 Me encontre no <a href="https://linkedin.com/in/ryderss" target="_blank" style="color:#00ff00; text-decoration:none;">LinkedIn</a></p>
-    </td>
+  <!-- Barra direita -->
+  <div style="display:flex; flex-direction:column; justify-content:space-between; height:120px; margin-left:20px;">
+    <div style="width:12px; height:12px; background:#00ff00; border-radius:3px;"></div>
+    <div style="width:12px; height:12px; background:#00ff00; border-radius:3px;"></div>
+    <div style="width:12px; height:12px; background:#00ff00; border-radius:3px;"></div>
+    <div style="width:12px; height:12px; background:#00ff00; border-radius:3px;"></div>
+    <div style="width:12px; height:12px; background:#00ff00; border-radius:3px;"></div>
+    <div style="width:12px; height:12px; background:#00ff00; border-radius:3px;"></div>
+  </div>
 
-    <!-- Barra direita com quadrados -->
-    <td style="width: 40px; text-align: center; vertical-align: middle; padding: 10px 5px;">
-      🟩<br>🟩<br>🟩<br>🟩<br>🟩<br>🟩
-    </td>
-
-  </tr>
-
-</table>
+</div>
 
 ---
 
