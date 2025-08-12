@@ -21,9 +21,6 @@
 
 <div align="center" style="background:#0A0A0A; border-radius:10px; padding:20px; max-width:700px; font-family:'Fira Code', monospace; color:#00ff00;">
 
-  <div style="display:inline-block; vertical-align:middle; margin-right: 20px; line-height: 16px;">
-    🟩<br>🟩<br>🟩<br>🟩<br>🟩<br>🟩
-  </div>
 
   <div style="display:inline-block; max-width: 500px; vertical-align: middle; text-align: center; line-height: 1.6;">
     <p>💻 <strong>Estudante de Sistemas de Informação</strong> — <em>3º Semestre</em></p>
@@ -34,9 +31,6 @@
     <p>🔗 Me encontre no <a href="https://linkedin.com/in/ryderss" target="_blank" style="color:#00ff00; text-decoration:none;">LinkedIn</a></p>
   </div>
 
-  <div style="display:inline-block; vertical-align:middle; margin-left: 20px; line-height: 16px;">
-    🟩<br>🟩<br>🟩<br>🟩<br>🟩<br>🟩
-  </div>
 
 </div>
 
