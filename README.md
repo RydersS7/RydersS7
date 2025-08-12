@@ -21,9 +21,14 @@
 
 <div align="center" style="background:#0A0A0A; border-radius:10px; padding:20px; max-width:700px; font-family:'Fira Code', monospace; color:#00ff00; display:flex; justify-content:center; align-items:center;">
 
-  <!-- Barra esquerda com emojis quadrados -->
+  <!-- Barra esquerda -->
   <div style="display:flex; flex-direction: column; justify-content: space-between; height: 120px; margin-right: 20px;">
-    🟩<br>🟩<br>🟩<br>🟩<br>🟩<br>🟩
+    <div>🟩</div>
+    <div>🟩</div>
+    <div>🟩</div>
+    <div>🟩</div>
+    <div>🟩</div>
+    <div>🟩</div>
   </div>
 
   <!-- Texto central -->
@@ -36,9 +41,14 @@
     <p>🔗 Me encontre no <a href="https://linkedin.com/in/ryderss" target="_blank" style="color:#00ff00; text-decoration:none;">LinkedIn</a></p>
   </div>
 
-  <!-- Barra direita com emojis quadrados -->
+  <!-- Barra direita -->
   <div style="display:flex; flex-direction: column; justify-content: space-between; height: 120px; margin-left: 20px;">
-    🟩<br>🟩<br>🟩<br>🟩<br>🟩<br>🟩
+    <div>🟩</div>
+    <div>🟩</div>
+    <div>🟩</div>
+    <div>🟩</div>
+    <div>🟩</div>
+    <div>🟩</div>
   </div>
 
 </div>
