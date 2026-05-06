@@ -23,7 +23,7 @@
 
 
   <div style="display:inline-block; max-width: 500px; vertical-align: middle; text-align: center; line-height: 1.6;">
-    <p>💻 <strong>Estudante de Sistemas de Informação</strong> — <em>4º Semestre</em></p>
+    <p>💻 <strong>Estudante de Sistemas de Informação</strong> — <em>5º Semestre</em></p>
     <p>⚡ <strong>Apaixonado por programação, tecnologia e desafios.</strong></p>
     <p>⚙️ Atuo com <strong>C</strong> e <strong>Python</strong>.</p>
     <p>🕵️‍♂️ Curto <em>design</em>, <em>hacking</em> e <em>lógica</em>.</p>
